@@ -74,13 +74,13 @@
   }
   
   .hero__title {
-    font-weight: 600;
+    font-weight: 200px;
     font-size: 2rem;
   }
   
   .hero__subtitle,
   .hero__description {
-    font-weight: 400;
+    font-weight: 400px;
     font-size: 1rem;
   }
   
@@ -153,14 +153,14 @@
   }
   
   .feature__title {
-    font-size: 25px;
-    font-weight: 600;
+    font-size: 20px;
+    font-weight: 200px;
     margin: 10px 0;
   }
   
   .feature__sub__title {
     font-size: 15px;
-    font-weight: 400;
+    font-weight: 400px;
   }
   
   .feature__image__container {
@@ -170,21 +170,7 @@
   .feature__image {
     width: 100%;
   }
-  
-  .feature__backgroud__video__container {
-    position: relative;
-    width: 100%;
-    /* top: 40%; */
-    left: 13%;
-    height: 100%;
-    max-width: 73%;
-    max-height: 54%;
-    z-index: 2;
-  }
-  
-  .feature__backgroud__video {
-    width: 100%;
-  }
+
   
   .feature__2__poster__container {
     position: absolute;
